@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://youhengzhou.github.io/blog/posts/1pythoninput/</loc>
+    <loc>/blog/posts/1pythoninput/</loc>
   </url><url>
-    <loc>https://youhengzhou.github.io/blog/categories/</loc>
+    <loc>/blog/categories/</loc>
   </url><url>
-    <loc>https://youhengzhou.github.io/blog/posts/</loc>
+    <loc>/blog/posts/</loc>
   </url><url>
-    <loc>https://youhengzhou.github.io/blog/tags/</loc>
+    <loc>/blog/tags/</loc>
   </url><url>
-    <loc>https://youhengzhou.github.io/blog/</loc>
+    <loc>/blog/</loc>
   </url>
 </urlset>
