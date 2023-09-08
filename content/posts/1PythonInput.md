@@ -35,9 +35,9 @@ UseHugoToc: false
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-![Alt Text](/images/test.jpg)
-
 # Introduction
+
+![Alt Text](/images/test.jpg)
 
 Some introduction content...
 
