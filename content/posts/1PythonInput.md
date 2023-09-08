@@ -11,7 +11,7 @@ draft: false
 hidemeta: false
 comments: false
 description: ""
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://youhengzhou.github.io/blog/posts/1pythoninput/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -37,7 +37,7 @@ UseHugoToc: false
 
 # Introduction
 
-![Alt Text](/images/test.jpg)
+![Alt Text](/blog/images/test.jpg)
 
 Some introduction content...
 
