@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: Yohannes' Tech Blog
   description: "Yohannes' Tech Blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -53,7 +53,7 @@ params:
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    # icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
