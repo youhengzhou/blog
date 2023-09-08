@@ -1,4 +1,4 @@
-baseURL: "/blog"
+baseURL: "https://youhengzhou.github.io/blog"
 title: Yohannes' Tech Blog
 paginate: 5
 theme: PaperMod
