@@ -11,7 +11,7 @@ draft: false
 hidemeta: false
 comments: false
 description: ""
-# canonicalURL: "https://youhengzhou.github.io/blog/posts/1pythoninput/"
+canonicalURL: "https://youhengzhou.github.io/blog/posts/1pythoninput/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
