@@ -3,8 +3,6 @@ title: Yohannes' Tech Blog
 paginate: 5
 theme: PaperMod
 
-canonifyURLs: true
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -23,7 +21,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["/"]
+  # images: ["/"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
