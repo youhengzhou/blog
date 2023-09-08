@@ -37,7 +37,7 @@ UseHugoToc: false
 
 # Introduction
 
-![Alt Text](/blog/images/test.jpg)
+![Alt Text](/blog/images/1pythoninput/test.jpg)
 
 Some introduction content...
 
