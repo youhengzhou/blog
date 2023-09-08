@@ -11,12 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st post</title>
-      <link>https://examplesite.com/posts/test/</link>
+      <title>Building the Python input() Function in Vanilla JavaScript</title>
+      <link>https://examplesite.com/posts/1pythoninput/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/test/</guid>
-      <description>Desc Text.</description>
+      <guid>https://examplesite.com/posts/1pythoninput/</guid>
+      <description>Introduction Some introduction content&amp;hellip;
+Section 1 Some content for section 1&amp;hellip;
+Section 2 Some content for section 2&amp;hellip;</description>
     </item>
     
   </channel>
