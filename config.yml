@@ -1,4 +1,4 @@
-baseURL: "https://youhengzhou.github.io/blog/"
+baseURL: "https://youhengzhou.github.io/blog"
 title: Yohannes' Tech Blog
 paginate: 5
 theme: PaperMod
@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/images"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false

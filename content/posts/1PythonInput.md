@@ -37,7 +37,7 @@ UseHugoToc: false
 
 # Introduction
 
-![Alt Text](images/test.jpg)
+![Alt Text](/blog/images/test.jpg)
 
 Some introduction content...
 
