@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://youhengzhou.github.io"
 title: Yohannes' Tech Blog
 paginate: 5
 theme: PaperMod
@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  # images: ["/"]
+  images: ["/images"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false

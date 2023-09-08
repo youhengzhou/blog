@@ -2,15 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Yohannes&#39; Tech Blog</title>
-    <link>https://examplesite.com/</link>
+    <link>https://youhengzhou.github.io/</link>
     <description>Recent content on Yohannes&#39; Tech Blog</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <title>Yohannes&#39; Tech Blog</title>
+      <url>https://youhengzhou.github.io/images</url>
+      <link>https://youhengzhou.github.io/images</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://youhengzhou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building the Python input() Function in Vanilla JavaScript</title>
-      <link>https://examplesite.com/posts/1pythoninput/</link>
+      <link>https://youhengzhou.github.io/posts/1pythoninput/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/1pythoninput/</guid>
+      <guid>https://youhengzhou.github.io/posts/1pythoninput/</guid>
       <description>Introduction Some introduction content&amp;hellip;
 Section 1 Some content for section 1&amp;hellip;
 Section 2 Some content for section 2&amp;hellip;</description>
