@@ -62,7 +62,7 @@ And I want to present to you several heuristics that I personally use to solve a
 
 ## Part 2. Drilling Steps
 
-
+coming soon...
 
 ## Citations
 
