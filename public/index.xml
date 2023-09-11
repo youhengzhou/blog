@@ -9,16 +9,16 @@
       <url>https://youhengzhou.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://youhengzhou.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://youhengzhou.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://youhengzhou.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Building the Python input() Function in Vanilla JavaScript</title>
-      <link>https://youhengzhou.github.io/blog/posts/1pythoninput/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Understanding Recursion and the Limits of Intelligence</title>
+      <link>https://youhengzhou.github.io/blog/posts/recursion/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://youhengzhou.github.io/blog/posts/1pythoninput/</guid>
-      <description>Introduction Some introduction content&amp;hellip;
-Section 1 Some content for section 1&amp;hellip;
-Section 2 Some content for section 2&amp;hellip;</description>
+      <guid>https://youhengzhou.github.io/blog/posts/recursion/</guid>
+      <description>Part 1. Introduction Recursion is a common pattern in programming. It occurs on many algorithm problems mostly relating to trees and graphs.
+Recursion also seems to be one of those algorithms in programming where people either “get it” or “don’t get it.” Some people with experience would find it trivial, but it would seem almost impossible for beginner programmers or the layperson who had no prior experience with programming.</description>
     </item>
     
   </channel>
