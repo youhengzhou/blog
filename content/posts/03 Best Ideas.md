@@ -40,9 +40,11 @@ UseHugoToc: false
 
 ## Foreword
 
-So I decided to try my hand at writing analytical essays. I took this topic from the GRE practice and sample essays booklet: `The best ideas arise from a passionate interest in commonplace things`. And I promise you I had only briefly looked at the first 3 lines on the official solution for a level 6 essay, before realizing my conversational/stream of consciousness vocabulary was not up to par.
+So I decided to try my hand at writing analytical essays. I took this topic from the GRE practice and sample essays booklet: `The best ideas arise from a passionate interest in commonplace things`.
 
-But I still decided to give it a go and see how I do, and here is what I came up with, after some light edits.
+And I promise you I had only briefly looked at the first 3 lines on the official solution for a level 6 essay, before realizing my conversational/stream of consciousness vocabulary was not up to par.
+
+But I still decided to give it a go and see how I do, and here is what I came up with, after some light (non-existent) edits.
 
 ## My Essay
 
