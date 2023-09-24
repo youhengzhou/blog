@@ -55,7 +55,7 @@ And perhaps it's not even to solve the problems itself that the customer wants t
 Why is that, and what is that consulting philosophy approach exactly?
 
 I think the consulting approach is to organize a problem, using charts, documents, slides, infographics, and present the already established information in such a way that it is easily digestible to the customer. Deliver the information regarding the problem in such a way that the customer can see a solution that they might have missed before.
-k
+
 And why is that, the reason customers want to pay for such a consulting service is precisely because they are either fed up with a problem for too long that they don't have the courage or the willpower anymore to do something supposedly trivial in their power to solve the problem, but hard in practice to actually do.
 
 And the consultants' job is just to organize and present the information in such a way that it is easy for the customer to digest and make up their mind about a solution that they might already have in their subconscious, but afraid or for whatever reason, unable to externalize until they receive a second opinion.
