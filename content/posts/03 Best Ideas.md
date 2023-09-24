@@ -62,7 +62,9 @@ In conclusion, a great idea often arise from a passionate interest in commonplac
 
 ## My Own Analysis
 
-My first honest opinion after finishing the essay was proud that I managed to stuck through and finished it even though at various point I wanted to leave and revise my strategy for writing an essay like this. The reasoning is at some point during the second paragraph I realized my explanatory paragraphs were going off topic (a recurring theme in my blogs I imagine) and I had to go back and revise just slightly to keep the examples I had conjured up (Newton and how Calculus was once considered cutting edge but no longer now that we have better understanding of the fundamentals of Calculus). And it sort of related to the topic which was partly about "commonplace things".
+My first honest opinion after finishing the essay was proud that I managed to stuck through and finished it even though at various points I wanted to leave and revise my strategy for writing an essay like this.
+
+The reasoning is at some point during the second paragraph I realized my explanatory paragraphs were going off topic (a recurring theme in my blogs I imagine) and I had to go back and revise just slightly to keep the examples I had conjured up (Newton and how Calculus was once considered cutting edge but no longer now that we have better understanding of the fundamentals of Calculus). And it sort of related to the topic which was partly about "commonplace things".
 
 But alas, I wanted to just see if I could do it, as in, finish the task in one stream of consciousness take, so I proceeded, shutting off that part of my brain of the self critic and kept chugging along.
 
@@ -70,7 +72,7 @@ If I have to go back and give myself advice before starting, it would be to take
 
 In all seriousness, planning with a skeleton for such a type of constrained analytical essay is super important I imagine.
 
-But that's enough with my own opinions, let's see what Bing chat has to say, in the year 2023, September 24.
+But that's enough with my own opinions, let's see what Bing chat has to say, in the year 2023, on September 24.
 
 ## Bing Chat (Precise Version)
 
