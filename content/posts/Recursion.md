@@ -36,7 +36,7 @@ UseHugoToc: false
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-![img](/blog/images/basic/sunset.jpg#center)
+![img](/blog/images/01/sunset.jpg#center)
 
 ## Part 1. Introduction
 

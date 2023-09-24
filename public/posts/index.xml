@@ -10,7 +10,17 @@
       <link>https://youhengzhou.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://youhengzhou.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://youhengzhou.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Start a Consultancy Company</title>
+      <link>https://youhengzhou.github.io/blog/posts/consulting/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://youhengzhou.github.io/blog/posts/consulting/</guid>
+      <description>How to Start a Consultancy Company Part 1. Goal We know that every large goal starts off with a series of small goals. And even before that, every consequential result starts off with a concrete goal in mind. Actions that lead to that result only happen because of the pre-existence of that established goal.
+The goal of this design document is to start a consultancy company. But more importantly, the goal of this experiment in starting a consultancy company is to learn the philosophy of consultancy and apply it to the struggles we have right now.</description>
+    </item>
+    
     <item>
       <title>Understanding Recursion and the Limits of Intelligence</title>
       <link>https://youhengzhou.github.io/blog/posts/recursion/</link>
