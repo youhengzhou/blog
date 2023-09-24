@@ -1,5 +1,5 @@
 ---
-title: "How to Start a Consultancy Company"
+title: "How to start a consultancy company"
 date: "2023-09-23"
 # weight: 1
 # aliases: ["/first"]
@@ -37,8 +37,6 @@ UseHugoToc: false
 ---
 
 ![img](/blog/images/02/snowstorm.jpg#center)
-
-## How to Start a Consultancy Company
 
 ## Part 1. Goal
 

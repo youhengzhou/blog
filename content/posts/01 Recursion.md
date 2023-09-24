@@ -1,5 +1,5 @@
 ---
-title: "Understanding Recursion and the Limits of Intelligence"
+title: "Understanding recursion and the limits of intelligence"
 date: "2023-09-10"
 # weight: 1
 # aliases: ["/first"]
