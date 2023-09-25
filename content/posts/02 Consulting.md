@@ -18,10 +18,10 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: false
+ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: false
+ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 # cover:
