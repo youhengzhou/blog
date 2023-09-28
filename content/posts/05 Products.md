@@ -168,6 +168,6 @@ Towards drugs, towards doom, because distance is how we measure happiness.
 
 From safety to self-actualization to painting the world in your colors. We seek more and more. Go further and further, until and before we run out of fuel and close our eyes permanently, meaningless and thus all are equally meaningful.
 
-Just make sure your immediate next step is not the moon, but the wrench or textbook closest to your textbook, where in it you can see you moon. And you dream of the moon through your tools, where whether you get there or not doesn't matter at all.
+Just make sure your immediate next step is not the moon, but the wrench or textbook closest to you, where in it you can see you moon. And you dream of the moon through your tools, where whether you get there or not doesn't matter at all.
 
 ![img](/blog/images/05/moon.jpg#center)
